@@ -105,7 +105,7 @@ function Caracol() {
         if (this.llegarMeta) {
             alpha = 255;
             tint(255, 255, 255, alpha);
-            image(imgCronohormiga, 865, 301);
+            image(imgCaracol, 865, 301);
         }
     };
 }
